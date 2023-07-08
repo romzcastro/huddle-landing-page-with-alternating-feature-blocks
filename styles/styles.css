@@ -493,6 +493,14 @@ h3 {
   .huddleContacts-container ul li {
     width: 40ch;
   }
+  .bottomFooter {
+    padding: 0em 0em 1em 0em;
+  }
+  .bottomFooter p {
+    text-align: right;
+    margin: 0 auto;
+    max-width: 73em;
+  }
   button:hover {
     background-color: var(--clr-neutral-4);
   }
