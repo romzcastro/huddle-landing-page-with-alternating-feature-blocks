@@ -493,6 +493,9 @@ h3 {
   .huddleContacts-container ul li {
     width: 40ch;
   }
+  .huddleInformation {
+    padding-top: 10em;
+  }
   .bottomFooter {
     padding: 0em 0em 1em 0em;
   }
